@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//Functions
 
 bool checkPalindrome(String word)
 {
