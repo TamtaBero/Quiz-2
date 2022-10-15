@@ -53,7 +53,7 @@ int n = Int16.Parse(Console.ReadLine());
 
 int[] arr = new int[n];
 
-Console.WriteLine("Write " + n + "numbers");
+Console.WriteLine("Write " + n + " numbers");
 
 int odd = 0, even = 1;
 
